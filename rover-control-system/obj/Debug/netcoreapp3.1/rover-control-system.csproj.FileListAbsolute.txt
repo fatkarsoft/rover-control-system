@@ -1,0 +1,13 @@
+C:\Projects\rover-control-system\rover-control-system\bin\Debug\netcoreapp3.1\rover-control-system.exe
+C:\Projects\rover-control-system\rover-control-system\bin\Debug\netcoreapp3.1\rover-control-system.deps.json
+C:\Projects\rover-control-system\rover-control-system\bin\Debug\netcoreapp3.1\rover-control-system.runtimeconfig.json
+C:\Projects\rover-control-system\rover-control-system\bin\Debug\netcoreapp3.1\rover-control-system.runtimeconfig.dev.json
+C:\Projects\rover-control-system\rover-control-system\bin\Debug\netcoreapp3.1\rover-control-system.dll
+C:\Projects\rover-control-system\rover-control-system\bin\Debug\netcoreapp3.1\rover-control-system.pdb
+C:\Projects\rover-control-system\rover-control-system\obj\Debug\netcoreapp3.1\rover-control-system.csprojAssemblyReference.cache
+C:\Projects\rover-control-system\rover-control-system\obj\Debug\netcoreapp3.1\rover-control-system.csproj.CoreCompileInputs.cache
+C:\Projects\rover-control-system\rover-control-system\obj\Debug\netcoreapp3.1\rover-control-system.AssemblyInfoInputs.cache
+C:\Projects\rover-control-system\rover-control-system\obj\Debug\netcoreapp3.1\rover-control-system.AssemblyInfo.cs
+C:\Projects\rover-control-system\rover-control-system\obj\Debug\netcoreapp3.1\rover-control-system.dll
+C:\Projects\rover-control-system\rover-control-system\obj\Debug\netcoreapp3.1\rover-control-system.pdb
+C:\Projects\rover-control-system\rover-control-system\obj\Debug\netcoreapp3.1\rover-control-system.genruntimeconfig.cache
