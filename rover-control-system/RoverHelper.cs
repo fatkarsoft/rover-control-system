@@ -215,14 +215,10 @@ namespace rover_control_system
     }
 
     public enum Direction
-    {
-        //Kuzey
-        North = 'N',
-        //Güney
-        South = 'S',
-        //Doğu
-        East = 'E',
-        //Batı
+    { 
+        North = 'N', 
+        South = 'S', 
+        East = 'E', 
         West = 'W'
     }
 }
