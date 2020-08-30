@@ -6,7 +6,7 @@ This project was made by NASA for the control of Rovers sent to Mars.
 
   - Create Grid
   - Enter Rover's position
-  - Enter steering gestures
+  - Enter Steering gestures
   - Show results
   
 # Directions
