@@ -26,8 +26,8 @@ In the definition in the code, it is handled in the counterclockwise direction.
 
 Input Values
 Grid : 10 10
-for Rover-1 position :  5 3 N
-for Rover-1 move : RMLMR
+for Rover-1 position :  5 3 N , 
+moves : RMLMR
 
 Output Value(s)
 result for Rover-1 : 6 4 E  
