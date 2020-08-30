@@ -22,7 +22,7 @@ The directions in the picture are represented in the code below.
 ```
 In the definition in the code, it is handled in the counterclockwise direction.
  
-#Example 
+# Example 
 
 Input Values
 Grid : 10 10
